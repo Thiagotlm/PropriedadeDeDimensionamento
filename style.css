@@ -1,0 +1,50 @@
+/*
+Propriedades básicas do CSS
+Width: largura
+Height: altura
+*/
+/*
+div{
+    background-color: lightgreen;
+    width: 250px;
+    height: 100px;
+}
+
+#div-01{
+    background-color: lightblue;
+    width: 200px;
+    height: 300px;
+}
+
+#div-02{
+    background-color: lightgreen;
+    height: inherit;
+}
+Altura e Largura máxima e mínima
+button{
+    background: pink;
+    max-width: 500px;
+    min-height: 300px;
+}*/
+
+/*Margin e padding*/
+
+div{
+    width: 200px;
+    color: white;
+}
+
+#elemento-01{
+    background: orange;
+    
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-bottom: 70px;
+    
+}
+#elemento-02{
+    background: purple;
+    margin-top: 10px;
+}
+
